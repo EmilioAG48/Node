@@ -1,0 +1,46 @@
+pagina web:
+https://bluuweb.github.io/node/01-fundamentos/#%C2%BFque-es-node-js
+
+Videos en youtube:
+https://www.youtube.com/watch?v=w-hKkMQR5O8&list=PLPl81lqbj-4IEnmCXEJeEXPepr8gWtsl6&index=3
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+
+Video3: Estan incluidos el video 2 y 3. 
+-------       
+       - Exports y Require.
+       - Package.json y NPM.
+       - instalar la vaca.
+
+Video4: Fundamentos de servidor HTTP.
+-------
+         Instalar y funcionar con Nodemon.
+
+
+------------------------------------------------------------------------------------------
+
+En este video5, está todo el resultado del proyecto (UN NAVBAR RESPONSIVE, ROUTER EXPRESS).
+
+Video5: (ojo estan incluidos los videos:6, 7 y 9 de youtube en este proyecto.)
+-------
+	- Express    
+
+        - Instalar express
+        - rutas, directorio público.
+	- archivos estáticos.
+	- middleware 
+	-
+	- video6: Template Engines (EJS) con Express   (ojo esta incluido el video6 de youtube en este proyecto.)
+	- instalar ejs.
+	- vistas
+	- renderizar
+	- Dinámicos
+	- plantillas
+	- include
+	- bootstrap
+	-
+	- video7: Navbar Responsive con Bootstrap   (ojo esta incluido el video7 de youtube en este proyecto.)
+	-
+	- video9: Router Express
+
+--------------------------------  F I N -------------------------------------------------------------------

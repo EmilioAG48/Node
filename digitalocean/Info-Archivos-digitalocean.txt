@@ -1,0 +1,24 @@
+
+*****************************************************************************
+
+
+Directorio:
+	first-servers
+	-------------
+	- https://www.digitalocean.com/community/tutorials/how-to-create-a-web-server-in-node-js-with-the-http-module-es
+	
+	- Cómo crear un servidor web en Node.js con el módulo HTTP
+		Paso 1: Crear un servidor HTTP básico
+			- hello.js: ARCHIVO para displayar nuestro primer mensaje. solo lo usamos para esta prueba.
+
+		Paso 2: Devolver tipos de contenido diferentes
+			el nombre del archivo nos indica el tipo que trabaja.
+			- csv.js
+			- json.js
+
+		Paso 3: Presentar una página HTML desde un archivo
+			- htmlFile.js
+			- index.html
+
+		Paso 4: Administrar rutas usando un objeto de solicitud HTTP
+quedé aqui por hacer.

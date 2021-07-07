@@ -1,0 +1,32 @@
+-------------------------------
+Exercise - Route management
+------------------------------
+
+https://docs.microsoft.com/en-us/learn/modules/build-web-api-nodejs-express/5-exercise-route-management
+
+*******************************************************************************************
+*******************************************************************************************
+
+con visual studio code, ir al directorio:
+-----------------------------------------
+
+node-essentials/nodejs-http/exercise-express-routing/reading-writing
+
+reading-writing: en este directorio trabajaremos segun lo que nos dice la página web.
+----------------
+
+aqui practicamos: CRUD, Implement CRUD
+
+*******************************************************************************************
+*******************************************************************************************
+
+con visual studio code, ir al directorio:
+-----------------------------------------
+
+node-essentials/nodejs-http/exercise-express-routing/parameters
+
+parameters: seguiremos trabajando en este directorio.
+----------
+
+pte realizar.
+
